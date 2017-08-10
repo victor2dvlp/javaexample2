@@ -16,7 +16,9 @@ public class Febonachi {
                 prev[1] = k;
                 System.out.print(k + " ");
             }
-            //comment
+            //comment 2
+
         }
+        System.out.println("Mishka privet!!!");
     }
 }
